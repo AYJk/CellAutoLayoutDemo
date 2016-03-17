@@ -91,9 +91,8 @@
         label.preferredMaxLayoutWidth = kScreenWidth - 100 - 16 * 2 - 70 - 8;
         label.font = [UIFont systemFontOfSize:13];
         label.textAlignment = NSTextAlignmentLeft;
-        label.backgroundColor = [UIColor redColor];
+        label.backgroundColor = [UIColor orangeColor];
         label.font = [UIFont systemFontOfSize:14.5];
-        label.textColor = [UIColor lightGrayColor];
         [label mas_makeConstraints:^(MASConstraintMaker *make) {
             make.left.equalTo(_backgroundImageView.mas_left).offset(8 + 16 + 70);
             make.right.equalTo(_backgroundImageView.mas_right).offset(-16);
