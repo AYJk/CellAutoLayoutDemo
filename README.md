@@ -1,4 +1,5 @@
 # CellAutoLayoutDemo
+[![BLOG](https://img.shields.io/badge/blog-ayjkdev.top-orange.svg?style=flat)](http://ayjkdev.top/)&nbsp;
 ## 前言
 iOS有多种布局方式，大致分为两种，即可视化布局和代码布局。两者各有优缺点，使用全凭个人喜好。
 
